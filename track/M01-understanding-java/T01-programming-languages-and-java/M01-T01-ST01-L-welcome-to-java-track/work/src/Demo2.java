@@ -1,0 +1,13 @@
+package Basics;
+
+public class Demo2 {
+	public static void main(String[] args) {
+		
+		int a = 98765;
+		double b = a;
+		
+		System.out.println(a);
+		System.out.println(b);
+	}
+
+}
